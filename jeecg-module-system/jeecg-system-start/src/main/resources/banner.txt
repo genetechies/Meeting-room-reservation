@@ -1,0 +1,5 @@
+华东理工大学会议室借用系统 Version: 1.0.0
+Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}
+版权所属： 华东理工大学
+公司官网： www.guojusoft.com
+${AnsiColor.BLACK}
